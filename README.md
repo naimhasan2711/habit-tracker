@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/check-all.png" alt="Habit Tracker Logo" width="80"/>
-</p>
-
 <h1 align="center">Habit Tracker</h1>
 
 <p align="center">
